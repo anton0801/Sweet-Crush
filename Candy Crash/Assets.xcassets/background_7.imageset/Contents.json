@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "WebStar_sweet_bonanza_game_screen_background_a5bd3ecb_c6b1_45d3.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
